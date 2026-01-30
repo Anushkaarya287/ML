@@ -1,0 +1,23 @@
+{
+  "user": {
+    "id": 102,
+    "name": "Anushka Arya",
+    "role": "Student",
+    "skills": ["Python", "Machine Learning", "AWS"],
+    "contact": {
+      "email": "anushka@example.com",
+      "phone": "+91-9876543210"
+    }
+  },
+  "projects": [
+    {
+      "title": "EMG Signal Analysis",
+      "status": "Completed"
+    },
+    {
+      "title": "ML Exam Preparation",
+      "status": "In Progress"
+    }
+  ],
+  "active": true
+}

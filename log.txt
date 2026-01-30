@@ -1,0 +1,26 @@
+[2026-01-30 10:02:11] INFO  System startup initiated
+[2026-01-30 10:02:12] INFO  Loading configuration files
+[2026-01-30 10:02:13] INFO  Configuration loaded successfully
+
+[2026-01-30 10:02:15] INFO  Initializing hardware modules
+[2026-01-30 10:02:16] INFO  CPU check passed
+[2026-01-30 10:02:16] INFO  Memory check passed
+[2026-01-30 10:02:17] INFO  Disk check passed
+
+[2026-01-30 10:02:20] INFO  Network interface eth0 initialized
+[2026-01-30 10:02:22] WARNING Network latency higher than expected (120 ms)
+
+[2026-01-30 10:02:30] INFO  Starting background services
+[2026-01-30 10:02:31] INFO  Database service started
+[2026-01-30 10:02:32] INFO  Authentication service started
+
+[2026-01-30 10:05:14] ERROR Failed to connect to backup server
+[2026-01-30 10:05:15] INFO  Retrying connection (attempt 1)
+[2026-01-30 10:05:18] INFO  Backup server connection established
+
+[2026-01-30 10:10:00] INFO  System running normally
+[2026-01-30 10:30:45] INFO  Scheduled maintenance check completed
+
+[2026-01-30 11:00:00] INFO  System shutdown requested
+[2026-01-30 11:00:02] INFO  All services stopped safely
+[2026-01-30 11:00:03] INFO  System shutdown completed
